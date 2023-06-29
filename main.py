@@ -16,10 +16,10 @@ screen.update()
 
 screen.listen()
 
-screen.onkey(snake.move_up, "w")
-screen.onkey(snake.move_left, "a")
-screen.onkey(snake.move_down, "s")
-screen.onkey(snake.move_right, "d")
+screen.onkey(snake.move_up, "Up")
+screen.onkey(snake.move_left, "Left")
+screen.onkey(snake.move_down, "Down")
+screen.onkey(snake.move_right, "Right")
 
 game_is_on = True
 while game_is_on:

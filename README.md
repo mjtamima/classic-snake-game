@@ -4,6 +4,6 @@
 
 #If the snake hits the boundary or touches any part of its body the game is over
 
-#Scroe increases by 1 every time it touches a goal (represented by the red dot)
+#Score increases by 1 every time it touches a goal (represented by the red dot)
 
 #The length of the snake keeps increasing each time snake eats a goal 

@@ -2,7 +2,7 @@
 
 #The code runs a version of the classic snake game. 
 
-The snake is controlled by keyboard arrow keys- Up, Down, Right and Left.
+#The snake is controlled by keyboard arrow keys- Up, Down, Right and Left.
 
 #If the snake hits the boundary or touches any part of its body the game is over.
 
